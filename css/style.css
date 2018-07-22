@@ -1,54 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
 
 /********************************************************************
-	ZYPOP - HTTPS://ZYPOPWEBTEMPLATES.COM
-	FREE WEB TEMPLATES
+	Tails's awesome style hell ye!
 ********************************************************************/
-
-
-/**
-This file contains the CSS variables for this template, built on the Bootstrap framework 
-See https://getbootstrap.com/docs/4.0/getting-started/introduction/ for more information
-**/
-
-
-/**
-Font properties
-**/
-
-
-/**
-Main colours
-**/
-
-
-/**
-Change a few bootstrap defaults
-**/
-
-
-/**
-Carousel settings
-**/
-
-
-/**
-Set the max container widths
-**/
-
-
-/** 
-Uncomment to remove all rounded corners
-or change rounded corners from Bootstrap default values
-**/
-
-
-/*!
- * Bootstrap v4.0.0-beta.2 (https://getbootstrap.com)
- * Copyright 2011-2017 The Bootstrap Authors
- * Copyright 2011-2017 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
 
 :root {
     --blue: #007bff;
